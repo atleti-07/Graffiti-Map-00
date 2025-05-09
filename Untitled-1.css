@@ -52,8 +52,9 @@ ul li {
 
 
  #map {
-    height: 60vh;
+    height: 70vh;
     width: 900px;
+    margin-top: 50px;
     margin-left: 1%;
     border: #5399fc 2px solid;
     box-shadow: 0px 0px 5px 0px;
